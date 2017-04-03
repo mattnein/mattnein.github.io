@@ -1,0 +1,70 @@
+@media only screen {
+
+Body {
+	background-color: #fadad7;
+}
+
+Header {
+	font-family: "HelveticaNeue-CondensedBold";
+	font-size: 20px; 
+	padding-top: 7px;
+   	padding-left: 632px;
+}
+
+#container {
+	border-bottom: 6px solid #dc143c;
+	height: 55px;
+}
+
+#contact {
+	font-family: Helvetica;
+    padding-left: 380px;
+}
+
+#Navi {
+	font-family: Helvetica;
+	font-size: 14px; 
+    font-weight: bold;
+    padding-left: 648px;
+}
+
+#EducationHeading, #ExperienceHeading {
+	font-family: "HelveticaNeue-CondensedBold";
+	font-size: 18px;
+	border-left: 6px solid #dc143c;
+}
+
+#EducationInfo {
+	font-family: helvetica;
+}
+
+#AppleHeading, #AbcHeading, #CoralHeading, #WellsHeading {
+	font-family: "HelveticaNeue-CondensedBold";
+	font-size: 17px;
+}
+
+#AppleInfo, #AbcInfo, #CoralInfo, #WellsInfo{
+	font-family: helvetica;
+	border-left: 6px solid #dc143c;
+}
+
+#AboutHeading, #SkillsHeading, #ReferencesHeading {
+	font-family: "HelveticaNeue-CondensedBold";
+	font-size: 17px;
+	border-left: 6px solid #dc143c;
+}
+
+#AboutText, #SkillsText, #ReferencesText {
+	font-family: helvetica;
+}
+
+#LogoImage {
+	padding-left: 660px;
+}
+
+Footer {
+	padding-left: 613px;
+}
+
+
+}
